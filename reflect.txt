@@ -1,0 +1,18 @@
+ /*
+------------------------------------------------------
+
+// Name: Maaz Saiyed
+// SID: 113485205
+// Email: mmmsaiyed@myseneca.ca
+// Project: Milestone 5
+
+------------------------------------------------------
+*/
+
+
+This semester's learning experience was completely new to me as in the last semester we studied IPC and this sem it was OOP (object oriented programming) although they both sound same but there are many differences. At first i was able to revise and reuse  all me previous semester's knowledge about C language. Later on i studied new topics which differntiate C++ from C. We've covered subjects including dynamic memory allocation and transfer,object-oriented programming, data binding, inheritance, encapsulation,  polymorphism, , constructors, destructors, member and helper functions.The best part about this semester was that even though we had to take classes online, the training and execution were excellent despite the difficult conditions. The lecturer's weekly special lessons were useful. Because the lectures were recorded, i guess we all had more freedom to study according to our individual tastes.
+Talking about milestone 5, it was really difficult because we have to merge all the milestones into one, which makes things more hard because I had to make changes to the previous files to get the desired result. This landmark contains many new models that are extremely difficult to load, read, and write. It was difficult to understand and required a lot of debugging. All I can say is that at this point, I spend less time producing and more time troubleshooting.
+
+
+The project is divided into many milestones, including new and old. But working on all these projects provided me with a comprehensive review experience, and so i was able to increase learning and creating applications for general hospitals.  Every week in class, we have the opportunity to put our learning and milestones into action. The first four milestones are easy, although sometimes difficult.
+Through out the sem i learnt so much under my professor hong huang and i have to say his way of teaching was nicely understandable and his method of explanation was so good that even the toughest things were simple to understand. As i submitted my codes everytime he would comment out my mistakes in the review and hence i was able to learn from y silyy mistakes.
